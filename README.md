@@ -1,0 +1,2 @@
+# DataFest-2023---Sentiment-Analysis-on-Attorney-Client-Communication
+The repository contains data merging, sentiment analysis using the bag of words technique to categorize questions, a word cloud illustrating frequent words, mapping sentiment values across US states, and a study on attorney response times. It provides insights to enhance communication, reduce rudeness, and improve response efficiency.
